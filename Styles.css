@@ -1,0 +1,963 @@
+
+.navbar-brand img
+{
+    width: 300px;
+    height: 300px;
+    margin: 10px auto 20px;
+    display: block;
+    padding: -20px;
+    margin-bottom: -70px;
+    margin-top: -20px;
+    
+}
+      
+.weaponsRow
+{
+  margin-right: 4% !important;
+}
+
+
+
+.weaponsRow2
+{
+  position: center;
+  
+  margin: 10px auto 20px;
+  display: block;
+
+
+}
+
+.AbilitiesVid2
+{
+    margin: 10px auto 20px;
+    display: block;
+    width: 80%;
+}
+
+
+.up
+{
+  width: 10% !important;
+  height: 50%   !important;
+  position: center;
+  
+  margin: 10px auto 20px;
+  display: block;
+
+}
+  
+.row1
+{
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.container1
+{
+  width: 100%;
+}
+
+
+  .Enemies
+  {
+    position: relative;
+    top: -700px;
+    left: -350px;
+  }
+
+.Enemies
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+}
+
+
+
+.Weapons
+{
+  position: relative;
+  text-align: center;
+  font-family: Ottselesque !important;
+  font-size: 100px;
+  color: #EE6A1F;
+  bottom: -20px;
+}
+
+.Locations
+{
+  position: relative;
+  text-align: center;
+  font-family: Ottselesque !important;
+  font-size: 100px;
+  color: #EE6A1F;
+}
+
+.MetalHeads
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+    margin: 10px auto 20px;
+    display: block;
+    text-align: center;
+}
+
+.MetalHeads2
+{
+    font-family: Ottselesque !important;
+    font-size: 90px;
+    color: #EE6A1F;
+    padding-left: 4%;
+    text-align: left;
+}
+
+.MetalHeads3
+{
+    font-family: Ottselesque !important;
+    font-size: 60px;
+    color: #EE6A1F;
+    padding-left: 4%;
+    text-align: left;
+}
+
+.MetalHeads4
+{
+    font-family: Ottselesque !important;
+    font-size: 80px;
+    color: #EE6A1F;
+    padding-left: 4%;
+    text-align: left;
+}
+
+.MetalHeads7
+{
+    font-family: Ottselesque !important;
+    font-size: 80px;
+    color: #EE6A1F;
+    padding-left: 4%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.WeaponsText
+{
+      position: relative;
+      width: 550px;
+      color: #ffffff;
+      font-size: 20px;
+      text-align: center;
+      font-family: segoeuil !important;
+      
+     
+}
+.MorphText
+{
+      width: 550px;
+      color: #EE6A1F;
+      font-size: 30px;
+      text-align: center;
+      font-family: segoeuil !important;
+      position: relative;
+      margin: 10px auto 20px;
+      display: block;
+    
+}
+
+
+  @font-face {
+    font-family: segoeuil;
+    src: url('Fonts/segoeuil.ttf');
+  }
+
+  .col-3
+  {
+      width: 100%;
+      color: #ffffff;
+      font-size: 20px;
+      text-align: center;
+      font-family: segoeuil !important;
+      position: relative;
+      top: -600px;
+      left: 500px;
+  
+  }
+
+.col
+{
+  display: flex;
+  width: 100%;
+}
+
+.Gun
+{
+  font-family: Ottselesque !important;
+    font-size: 60px;
+    color: #EE6A1F;
+}
+
+.Gun2
+{
+  font-family: Ottselesque !important;
+    font-size: 60px;
+    color: #EE6A1F;
+    text-align: center !important;
+}
+
+
+.Gun5
+{
+  font-family: segoeuil !important;
+    font-size: 20px;
+    color: white;
+    margin: 10px auto 20px;
+    display: block;
+  
+
+}
+
+
+
+.Gun3
+{
+  font-family: segoeUIBold !important;
+    font-size: 20px;
+    color: white;
+}
+
+
+  .col-orb
+  {
+    width: 100%;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    font-family: segoeuil !important;
+    position: relative;
+  }
+
+
+  .EnemiesText
+  {
+      width: 550px;
+      color: #ffffff;
+      font-size: 20px;
+      text-align: center;
+      font-family: segoeuil !important;
+      position: relative;
+      float: right;
+  }
+
+  .OverviewText
+  {
+        
+        color: #ffffff;
+        font-size: 20px;
+        text-align: Left;
+        font-family: segoeuil !important;
+        margin-left: 50px;
+        margin-right: 50px;
+      
+  }
+
+  .OverviewText1
+  {
+        
+        color: #ffffff;
+        font-size: 20px;
+        text-align: Left;
+        font-family: segoeuil !important;
+    
+        padding-left: 4% !important; 
+        padding-right: 4% !important;
+      
+  }
+
+
+
+@font-face {
+    font-family: segoeuisl;
+    src: url('Fonts/segoeuisl.ttf');
+  }
+
+
+.nav-item
+{
+    padding: 30px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+    font-family: segoeuisl !important;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+.intro
+{
+  width: 100%;
+}
+
+
+.gameplay
+{
+  width: 100%;
+  margin: 10px auto 20px;
+  display: block;
+}
+ 
+
+@font-face {
+    font-family: SegoeUIBold;
+    src: url('Fonts/Segoe UI Bold.ttf');
+  }
+
+   
+@font-face {
+    font-family: SegoeUI;
+    src: url('Fonts/Segoe UI.ttf');
+  }
+
+  @font-face {
+    font-family: seguibl;
+    src: url('Fonts/seguibl.ttf');
+  }
+
+
+.ColourDiv
+{
+    color: #EE6A1F;
+    font-size: 80px;
+    font-family: seguibl !important;
+    font-display: bold;
+    text-align: center;
+}
+
+.SubDiv
+{
+    color: #EE6A1F;
+    font-size: 25px;
+    font-family: SegoeUI;
+    text-align: center;
+    
+}
+
+@font-face {
+    font-family: SegoeUIItalic;
+    src: url('Fonts/Segoe\ UI\ Italic.ttf.ttf');
+  }
+
+.buttonLink
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 150px;
+    border-radius: 0px;
+    text-align: center;
+    margin: 10px auto 20px;
+    display: block;
+    
+}
+
+.buttonLink:hover
+{
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+.PowerCell
+{
+    width: 110px;
+    height: 110px;
+    margin: 10px auto 20px;
+    display: block;
+}
+
+.PowerCell2
+{
+    width: 110px;
+    height: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+}
+
+.PowerCell3
+
+  {
+    width: 110px;
+    height: 110px;
+    margin: 10px auto 20px;
+    display: block;
+   
+  }
+
+
+  .PowerCell4
+  {
+    width: 110px;
+    height: 110px;
+    margin: 10px auto 20px;
+    display: block;
+  }
+
+
+@font-face {
+    font-family: precursoralpha;
+    src: url('Fonts/precursoralpha.TTF');
+  }
+
+
+.CharactersSmall
+{
+    writing-mode: vertical-lr;
+    text-orientation: upleft;
+    font-family: precursoralpha !important;
+    color: #EE6A1F;
+    opacity: 50%;
+}
+
+.EnemiesSmall
+{
+    writing-mode: vertical-lr;
+    text-orientation: upleft;
+    font-family: precursoralpha !important;
+    color: #EE6A1F;
+    opacity: 50%;
+}
+
+.WeaponsSmall
+{
+  writing-mode: vertical-lr;
+  text-orientation: upleft;
+  font-family: precursoralpha !important;
+  color: #EE6A1F;
+  opacity: 50%;
+}
+
+.LocationsSmall
+{
+  
+  writing-mode: vertical-lr;
+  text-orientation: upleft;
+  font-family: precursoralpha !important;
+  color: #EE6A1F;
+  opacity: 50%;
+
+}
+
+.VehiclesSmall
+{
+  writing-mode: vertical-lr;
+  text-orientation: upleft;
+  font-family: precursoralpha !important;
+  color: #EE6A1F;
+  opacity: 50%;
+
+}
+
+.ControlsSmall
+{
+  writing-mode: vertical-lr;
+  text-orientation: upleft;
+  font-family: precursoralpha !important;
+  color: #EE6A1F;
+  opacity: 50%;
+
+}
+
+
+@font-face {
+    font-family: Ottselesque;
+    src: url('Fonts/Ottselesque.ttf');
+  }
+
+.Characters
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+  
+    
+}
+
+.Characters2
+{
+    font-family: Ottselesque !important;
+    font-size: 90px;
+    color: #EE6A1F;
+  
+    
+}
+
+.OrbHeading
+{
+  font-family: Ottselesque !important;
+  font-size: 100px;
+  color: #EE6A1F;
+  display: flex;
+  text-align: center;
+  margin: 10px auto 20px;
+  display: block;
+  
+  
+}
+
+
+
+.orb
+{
+  text-align: left;
+  width: 100%;
+}
+
+
+
+
+
+.Vehicles
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+    display: flex;
+    text-align: center;
+}
+
+
+.textcol
+{
+    width: 100%;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: segoeuil !important;  
+    
+}
+
+.textcol2
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  font-family: segoeuil !important;  
+  margin: 10px auto 20px;
+  display: block;
+}
+
+.textcol6
+  
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  font-family: segoeuil !important;  
+}
+
+
+.textcol3
+{
+    width: 100%;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: segoeuil !important; 
+    padding-left: 4% !important; 
+   padding-right: 4% !important;
+   padding-top: 4%;
+    
+}
+
+.circs
+{
+  margin: 10px auto 20px;
+  display: block;
+}
+
+
+
+
+.textcol32
+{
+    width: 100%;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: segoeuil !important; 
+    padding-left: 4% !important; 
+   padding-right: 4% !important;
+  
+    
+}
+
+.NestPic
+{
+  padding-left: 4% !important; 
+  padding-right: 4% !important;
+}
+
+
+@font-face {
+  font-family: Segoe UI Bold Italic;
+  src: url('Fonts/Segoe\ UI\ Bold\ Italic.ttf');
+}
+
+
+.Abilities
+{
+font-family: Segoe UI Bold Italic !important;
+font-size: 30px;
+color: white;
+text-align: center;
+position: center;
+
+
+}
+
+.Abilities4
+{
+font-family: SegoeUIBold !important;
+font-size: 30px;
+color: white;
+text-align: center;
+position: center;
+
+
+}
+
+.Abilities5
+{
+font-family: Segoeuil !important;
+font-size: 20px;
+color: white;
+text-align: center;
+position: center;
+
+
+}
+
+
+.overview
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+    display: flex;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.overview1
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+    display: flex;
+    text-align: left;
+    padding-left: 4% !important; 
+   padding-right: 4% !important;
+}
+
+
+
+.CharactersButtonLink
+{
+  text-decoration: none;
+  background-color: black;
+  color: #ffffff;
+  border: 2px solid #EE6A1F; 
+  padding: 5px;
+  margin: 5px;
+  display: block;
+  width: 200px;
+  border-radius: 0px;
+  text-align: center;
+  
+  
+    
+}
+
+.CharactersButtonLink:hover
+{
+    position: relative;
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+
+.EnemiesButtonLink
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 200px;
+    border-radius: 0px;
+    text-align: center;
+  
+    
+    
+}
+
+.EnemiesButtonLink:hover
+{
+    position: relative;
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+
+.WeaponsButtonLink
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 10px auto 20px;
+    display: block;
+    width: 200px;
+    border-radius: 0px;
+    text-align: center; 
+    
+}
+
+.WeaponsButtonLink:hover
+{
+    position: relative;
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+
+.LocationsButtonLink
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 10px auto 20px;
+    display: block;
+    width: 200px;
+    border-radius: 0px;
+  
+}
+
+.LocationsButtonLink:hover
+{
+    position: relative;
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+.VehiclesButtonLink
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 200px;
+    border-radius: 0px;
+    text-align: center;
+    margin: 10px auto 20px;
+    display: block;
+    
+    
+}
+
+.VehiclesButtonLink:hover
+{
+    position: relative;
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+
+.ControlsButtonLink
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 200px;
+    border-radius: 0px;
+    text-align: center;
+    float: center;
+}
+
+.ControlsButtonLink:hover
+{
+    position: relative;
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+.ContactButtonLink
+{
+    
+    color: #ffffff;
+   
+   
+    font-weight: bold;
+  
+    text-align: center;
+   
+}
+
+.ContactButtonLink:hover
+{
+    color:#EE6A1F;
+    font-weight: bold;   
+}
+
+
+.MessageButton
+{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #EE6A1F; 
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 150px;
+    border-radius: 0px;
+    text-align: center;
+    margin: 10px auto 20px;
+    display: block;
+    
+}
+
+.MessageButton:hover
+{
+    background-color: #EE6A1F;
+    color:black;
+    border: 2px solid #EE6A1F;
+    font-weight: bold;   
+}
+
+
+
+
+.SkullGem
+{
+  padding-right: 5%;
+}
+
+
+.sony
+{
+ 
+  width: 100px;
+  height: 150px;
+  margin-bottom: 2%;
+  
+}
+
+.NaughtyDog
+{
+  width: 200px;
+  height: 50px;
+  margin: 10px auto 20px;
+  display: block;
+  margin-top: 10% !important;
+  
+   
+}
+
+.Symbols
+{
+  
+  width: 300px;
+  height: 100px;
+  margin-bottom: 2%;
+  text-align: right;  
+  float: right !important;
+  margin-top: 5%;
+  
+}
+
+.Gun
+{
+  margin: 10px auto 20px;
+  display: block;
+}
+
+.specs
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  font-family: segoeuibold !important;  
+}
+
+.specs2
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  font-family: segoeuil !important; 
+}
+
+.gunz
+{
+  width: 50%;
+  height: 100%;
+}
+
+.Specs2
+{
+  text-align: left;
+  align-content: left;
+  margin-right: 60%;
+}
+
+
+.specs3
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  font-family: segoeuibold !important; 
+}
+
+
+

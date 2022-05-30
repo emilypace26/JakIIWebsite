@@ -1,0 +1,209 @@
+.navbar-brand img
+{
+    width: 300px;
+    height: 300px;
+    margin: 10px auto 20px;
+    display: block;
+    padding: -20px;
+    margin-bottom: -70px;
+    margin-top: -20px;
+    
+}
+
+
+@font-face {
+    font-family: segoeuisl;
+    src: url('Fonts/segoeuisl.ttf');
+  }
+
+.nav-item
+{
+    padding: 30px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+    font-family: segoeuisl !important;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+@font-face {
+    font-family: Segoe UI Bold Italic;
+    src: url('Fonts/Segoe\ UI\ Bold\ Italic.ttf');
+  }
+
+.IntroText
+{
+    font-family: Segoe UI Bold Italic !important;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    position: center;
+}
+
+.PowerCell3
+
+  {
+    width: 110px;
+    height: 110px;
+    margin: 10px auto 20px;
+    display: block;
+   
+  }
+
+
+  
+@font-face {
+    font-family: SegoeUIBold;
+    src: url('Fonts/Segoe UI Bold.ttf');
+  }
+
+   
+@font-face {
+    font-family: SegoeUI;
+    src: url('Fonts/Segoe UI.ttf');
+  }
+
+  @font-face {
+    font-family: seguibl;
+    src: url('Fonts/seguibl.ttf');
+  }
+
+
+  .orb
+{
+  text-align: left;
+}
+
+@font-face {
+    font-family: Ottselesque;
+    src: url('Fonts/Ottselesque.ttf');
+  }
+
+  .Characters
+{
+    font-family: Ottselesque !important;
+    font-size: 100px;
+    color: #EE6A1F;
+  
+    
+}
+
+.specs
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  font-family: segoeuibold !important;  
+}
+
+
+.specs2
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  font-family: segoeuil !important;  
+  
+}
+
+
+@font-face {
+    font-family: segoeuil;
+    src: url('Fonts/segoeuil.ttf');
+  }
+
+  
+  .Abilities
+{
+font-family: Segoe UI Bold Italic !important;
+font-size: 30px;
+color: white;
+text-align: center;
+position: center;
+
+
+
+}
+
+.Linee
+{
+    margin: 10px auto 20px;
+    display: block;
+    background-image: url("JakImages/Linee.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 235px;
+    background-position: center;
+    padding-top: 95px;
+}
+
+
+.AbilitiesVid2
+{
+    margin: 10px auto 20px;
+    display: block;
+    width: 50%;
+}
+
+.specs3
+{
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  font-family: segoeuil !important; 
+}
+
+
+.sony
+{
+ 
+  width: 100px;
+  height: 150px;
+  margin-bottom: 2%;
+  
+}
+
+.NaughtyDog
+{
+  width: 200px;
+  height: 50px;
+  margin: 10px auto 20px;
+  display: block;
+  margin-top: 10% !important;
+  
+   
+}
+
+.Symbols
+{
+  
+  width: 300px;
+  height: 100px;
+  margin-bottom: 2%;
+  text-align: right;  
+  float: right !important;
+  margin-top: 5%;
+  
+}
+
+.ContactButtonLink
+{
+    
+    color: #ffffff;
+   
+   
+    font-weight: bold;
+  
+    text-align: center;
+    float: center;
+}
+
+.ContactButtonLink:hover
+{
+    color:#EE6A1F;
+    font-weight: bold;   
+}
